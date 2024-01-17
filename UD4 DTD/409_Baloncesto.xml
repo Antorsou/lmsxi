@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE equipos_de_baloncesto SYSTEM "409_baloncesto.dtd">
+<equipos_de_baloncesto>
+  <equipo>  
+    <nombre>Boston Celtics</nombre>
+    <ciudad>Boston</ciudad>
+    <entrenador>Mc_Donals</entrenador>
+    <jugadores>
+        <jugador posicion="Alero">
+         <nombre>Larry Bird</nombre>
+         <nacionalidad>EEUU</nacionalidad>
+        </jugador>
+        <jugador posicion="Base">
+         <nombre>Vincent Holiday</nombre>
+         <nacionalidad>EEUU</nacionalidad>
+        </jugador>
+    </jugadores>
+  </equipo>
+  <equipo>  
+    <nombre>Huston Rockers</nombre>
+    <ciudad>Huston</ciudad>
+    <entrenador>Nik Framer</entrenador>
+    <jugadores>
+        <jugador posicion="Alero">
+         <nombre>Michel Jordan</nombre>
+         <nacionalidad>EEUU</nacionalidad>
+        </jugador>
+        <jugador posicion="Base">
+            <nombre>Samuel Brown</nombre>
+            <nacionalidad>EEUU</nacionalidad>
+        </jugador>
+    </jugadores>
+  </equipo>
+</equipos_de_baloncesto>
+
+
